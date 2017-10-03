@@ -3,7 +3,7 @@
 	/**
 	* @desc Para correto funcionamento, deverá estar ativada a biblioteca do php phpzip
 	* 
-	* @author Tiago Teixeira
+	* @author Tiago Teixeira <tiagoteixeira2214@gmail.com>
 	* @desc classe responsavel por zipar arquivos.
 	 Exemplo de uso:
 	 	//Envia um ou varios arquivos
